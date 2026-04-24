@@ -56,6 +56,10 @@ world-layoffs-data-cleaning/
 Import the dataset into your SQL database
 Run data_cleaning.sql to clean the data
 Execute analysis.sql to generate insights
+## 📸 Sample Output
+![SQL Output](Screenshot 2026-04-24 135521.png)
+(Screenshot 2026-04-24 135531.png)
+(Screenshot 2026-04-24 135545.png)
 👨‍💻 Author
 
 Sachin Ganesh S
